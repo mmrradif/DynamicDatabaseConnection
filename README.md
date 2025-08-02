@@ -27,6 +27,6 @@ This repository provides a robust and flexible way to manage database connection
 
 ## 📄 Documentation
 
-Full guide included in the repository:
+Full guide available here:  
+📎 [DynamicDatabaseConnection.pdf](https://github.com/mmrradif/DynamicDatabaseConnection/blob/a58c6495a9f691dd221a1a5e5e2c3f4ddfac2e1c/DynamicDatabaseConnection.pdf)
 
-📎 [`DynamicDatabaseConnection.docx`](./Docs/DynamicDatabaseConnection.docx)
